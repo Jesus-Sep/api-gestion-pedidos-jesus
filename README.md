@@ -52,3 +52,7 @@ python -m venv venv
 instalar dependencias con
 pip install -r requirements.txt
 ejecutar servidor.
+
+En el apartadi de tecnologías elegidas tenemos la sugerida por el profesor FastAPI en Python con Uvicorn, tentativamente a PostgreSQL.
+
+
